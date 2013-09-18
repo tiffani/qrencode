@@ -1,3 +1,5 @@
+!!! Updated this to use libpng 1.6.5 and libqrencode 3.4.3 - 9.17.13
+
 = qrencode
 
 * FIX (url)
